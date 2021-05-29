@@ -1,0 +1,10 @@
+Press any key to continue . . . 
+
+TEST Q1 (4 marks):
+1. Run TC 1
+2. Run TC 2
+Enter TC (0 to exit): Enter a = Enter b = Enter c = s1 = 12.667, s2 = 38.000
+
+OUTPUT:
+12.667  38.000
+

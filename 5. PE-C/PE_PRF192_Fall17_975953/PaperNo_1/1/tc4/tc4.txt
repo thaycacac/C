@@ -1,0 +1,10 @@
+Press any key to continue . . . 
+
+TEST Q1 (4 marks):
+1. Run TC 1
+2. Run TC 2
+Enter TC (0 to exit): Enter m = Enter n = s = 942
+
+OUTPUT:
+942
+

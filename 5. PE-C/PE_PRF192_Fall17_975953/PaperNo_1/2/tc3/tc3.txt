@@ -1,0 +1,18 @@
+Press any key to continue . . . 
+
+TEST Q2 (4 marks):
+1. Run TC 1 (fen) 
+2. Run TC 2 (fun) 
+Enter TC (0 to exit): Enter number of elements n = Enter 9 elements:
+a[0] = a[1] = a[2] = a[3] = a[4] = a[5] = a[6] = a[7] = a[8] = 
+The original array:
+18 2 17 3 15 11 9 5 6 
+
+The array after processing:
+18 2 17 3 15 5 6 9 11 
+
+OUTPUT:
+18 2 17 3 15 5 6 9 11 
+
+
+

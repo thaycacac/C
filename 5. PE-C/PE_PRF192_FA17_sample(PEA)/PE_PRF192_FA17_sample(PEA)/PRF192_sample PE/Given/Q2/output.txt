@@ -1,0 +1,11 @@
+Press any key to continue . . . 
+
+TEST Q2 (4 marks):
+1. Run TC 1 (fen) 
+2. Run TC 2 (fun) 
+Enter TC (0 to exit): Enter x = Enter y = Enter n = fen(1.0,1.5,1000) = 3.7158
+
+OUTPUT:
+3.7158
+
+
